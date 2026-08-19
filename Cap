@@ -1,0 +1,43 @@
+Cap
+
+Task 1
+
+How many TCP ports are open?
+3
+
+Task 2
+
+After running a "Security Snapshot", the browser is redirected to a path of the format /[something]/[id], where [id] represents the id number of the scan. What is the [something]?
+data
+
+Task 3
+
+Are you able to get to other users' scans?
+yes
+
+Task 4
+
+What is the ID of the PCAP file that contains sensative data?
+0
+
+Task 5
+
+Which application layer protocol in the pcap file can the sensetive data be found in?
+ftp
+
+Task 6
+
+We've managed to collect nathan's FTP password. On what other service does this password work?
+ssh
+
+Submit User Flag
+Submit the flag located in the nathan user's home directory.
+User flag owned
+
+Task 8
+
+What is the full path to the binary on this machine has special capabilities that can be abused to obtain root privileges?
+/usr/bin/python3.8
+
+Submit the flag located in root's home directory.
+Root flag owned
