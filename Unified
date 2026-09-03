@@ -1,0 +1,63 @@
+Unified
+
+Task 1
+
+Which are the first four open ports?
+22,6789,8080,8443
+
+Task 2
+
+What is the title of the software that is running running on port 8443?
+UniFi Network
+
+Task 3
+
+What is the version of the software that is running?
+6.4.54
+
+Task 4
+
+What is the CVE for the identified vulnerability?
+CVE-2021-44228
+
+Task 5
+
+What protocol does JNDI leverage in the injection?
+LDAP
+
+Task 6
+
+What tool do we use to intercept the traffic, indicating the attack was successful?
+tcpdump
+
+Task 7
+
+What port do we need to inspect intercepted traffic for?
+389
+
+Task 9
+
+What port is the MongoDB service running on?
+27117
+
+Task 10
+
+What is the default database name for UniFi applications?
+ace
+
+Task 11
+
+What is the function we use to enumerate users within the database in MongoDB?
+db.admin.find()
+
+Task 12
+
+What is the function we use to update users within the database in MongoDB?
+db.admin.update()
+
+Task 13
+
+What is the password for the root user?
+NotACrackablePassword4U2022
+
+
