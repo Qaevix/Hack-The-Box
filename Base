@@ -1,0 +1,74 @@
+Base
+
+Task 1
+
+Which two TCP ports are open on the remote host?
+22,80
+
+Task 2
+
+What is the relative path on the webserver for the login page?
+/login/login.php
+
+Task 3
+
+How many files are present in the '/login' directory?
+3
+Task 4
+
+What is the file extension of a swap file?
+.swp
+
+Task 5
+
+Which PHP function is being used in the backend code to compare the user submitted username and password to the valid username and password?
+strcmp()
+
+Task 6
+
+In which directory are the uploaded files stored?
+/_uploaded
+
+Task 7
+
+Which user exists on the remote host with a home directory?
+john
+
+Task 8
+
+What is the password for the user present on the system?
+thisisagoodpassword
+
+Task 9
+
+What is the full path to the command that the user john can run as user root on the remote host?
+/usr/bin/find
+
+Task 10
+
+What action can the find command use to execute commands?
+exec
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
